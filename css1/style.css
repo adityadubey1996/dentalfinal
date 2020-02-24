@@ -1,6 +1,12 @@
 *body{
   box-sizing: border-box;
 }
+.preloader{
+  color:#339933!important;
+  background: #339933;
+  background-image: #339933;
+  background-color: #339933!important;
+}
 
 
 .nav-item::before{
